@@ -19,4 +19,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git luci-app-serverchan https://github.com/tty228/luci-app-serverchan' >>feeds.conf.default
 echo 'src-git jerryk https://github.com/jerrykuku/openwrt-package' >>feeds.conf.default
-echo ' src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
